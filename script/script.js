@@ -5,6 +5,7 @@ let deposit= 40;
 let mission= 45;
 let period= 90;
 
+
 alert("Heeeeeeeyyyyyoooo!!!");
 
 console.log(money,
