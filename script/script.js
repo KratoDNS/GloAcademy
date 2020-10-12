@@ -23,7 +23,7 @@ let budgetDay= Math.floor(budgetMonth/30);
     }
 
 
-console.log(Number(money))
+console.log(money)
 console.log(addExpenses);
 console.log(deposit)
 console.log(expenses1)
