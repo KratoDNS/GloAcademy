@@ -1,17 +1,12 @@
-let money= 20;
-let income= 1000;
-let addExpenses= 200;
-let deposit= 40;
-let mission= 45;
-let period= 90;
+let money
+let income
+let addExpenses
+let deposit
+let mission
+let period
 
 
-alert("Heeeeeeeyyyyyoooo!!!");
 
-console.log(money,
-    income,
-    addExpenses,
-    deposit,
-    mission,
-    period,
-    2102200);
+
+console.log(money);
+ alert (2102200);
